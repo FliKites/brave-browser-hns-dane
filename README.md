@@ -1,4 +1,11 @@
-# Brave Browser
+# Brave Browser with Beacon Patches
+
+## Credits 
+
+@buffrr @imperviousinc
+
+Source: https://github.com/imperviousinc/beacon
+License: https://github.com/imperviousinc/beacon/blob/main/LICENSE
 
 
 ## Overview
